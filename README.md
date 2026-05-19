@@ -7,9 +7,9 @@ I also used Linux as the host OS and installed virtualbox for my on-premises sec
 
 **Update:** I upgraded to a Macbook Pro last year so I had to switch from virtualbox to UTM as that was more compatible with Apple Silicon processors.
 
-![UTM](utm.png)
+![UTM](screenshots/utm.png)
 
-![Ubuntu Linux](ubuntu-linux.png)
+![Ubuntu Linux](screenshots/ubuntu-linux.png)
 
 I use this repository to keep track of commands, notes, screenshots, and small things I learn while practicing.
 
