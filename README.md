@@ -2,7 +2,7 @@
 
 ## Background 
 
-I replaced Windows on my lenovo laptop with Ubuntu Linux to gain practical experience with Linux environments, terminal usage, system maintenance and using Linux as the host OS for my on-premises security homelab. 
+I replaced Windows OS on my lenovo laptop with Ubuntu Linux to gain practical experience with Linux environments, terminal usage, system maintenance and using Linux as the host OS for my on-premises security homelab. 
 
 **Update:** I upgraded to a Macbook Pro last year so I had to switch from virtualbox to UTM as that was more compatible with Apple Silicon processors.
 
